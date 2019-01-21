@@ -1,0 +1,2 @@
+# AlgoritmicProblemsNeuralNetworksPython
+AlgoritmicProblemsNeuralNetworksPython
